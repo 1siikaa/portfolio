@@ -1,0 +1,26 @@
+.footerlast {
+    padding: 15px 30px;
+    font-size: 15px;
+    color: #70757a;
+    background-color: #f8f9fa;
+    font-size: 14px;
+    font-family: arial, sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.one {
+    padding: 5px;
+    word-spacing: 14px;
+}
+
+.two {
+    padding: 5px;
+    word-spacing: 10px;
+}
+
+.three {
+    padding: 5px;
+    margin-left: -820px;
+}
