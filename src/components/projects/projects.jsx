@@ -6,8 +6,7 @@ import IMG3 from '../../assets/project3.png'
 import IMG4 from '../../assets/project4.jpg'
 import IMG5 from '../../assets/project5.png'
 import IMG6 from '../../assets/project6.jpg'
-import IMG7 from '../../assets/project7.png'
-import IMG8 from '../../assets/project8.jpg'
+import ProjectF from './project-front'
 
 // 
 const data = [
@@ -47,21 +46,6 @@ const data = [
     image: IMG5,
     title: 'Shopping-Cart',
     github: 'https://github.com/1siikaa/productManagement-shoppingCart',
-  },
- 
-  {
-    id:7,
-    image: IMG7,
-    title: 'Google-Homepage',
-    github: 'https://github.com/1siikaa/google-homepage',
-    app:'https://tourmaline-lebkuchen-9b196d.netlify.app/'
-  },
-  {
-    id:8,
-    image: IMG8,
-    title: 'Netflix-clone',
-    github:'https://github.com/1siikaa/netflix-clone',
-    app:'https://thunderous-paletas-82a9c3.netlify.app/'
   }
 ]
 
@@ -70,10 +54,10 @@ function projects() {
   return (
     <section id='projects'>
       <h5>My Recent Work</h5>
-      <h2>Projects</h2>
+      <h2>Back-end Projects</h2>
       <div className='container project__container'>
 {
-  data.map(({id, image, title, github,app})=>{
+  data.map(({id, image, title, github})=>{
     return(
 <article key={id} className='poroject__item'>
 <div className='project__item-image'>
@@ -82,13 +66,13 @@ function projects() {
 <h3>{title}</h3>
 <div className='project__item-cta'>
 <a href={github} className='btn'  target='_blank' rel="noreferrer">Github</a>
-<a href={app} className='btn' target='_blank' rel="noreferrer">App</a>
 </div>
 </article>
     )
   })
 }
-      </div>  
+      </div>
+<ProjectF/>
       </section>
 
   )
