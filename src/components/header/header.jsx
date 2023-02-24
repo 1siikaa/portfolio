@@ -3,6 +3,7 @@ import './header.css'
 import CTA from './CTA'
 import HeaderSocials from './headersocial'
 import Me from '../../assets/me.jpg'
+
 function header() {
   return (
     <header>
@@ -15,7 +16,7 @@ function header() {
         <div className='me'>
          <img src={Me} alt='me'/>
         </div>
-        <a href='#contact' className='scroll__down'>Scroll Down</a>
+        <a href ='/contact' className='scroll__down'>Scroll Down</a>
       </div>
     </header>
   )

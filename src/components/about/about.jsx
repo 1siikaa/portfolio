@@ -6,7 +6,7 @@ import { VscFolderLibrary } from "react-icons/vsc";
 
 function about() {
   return (
-    <section id="about">
+    <section id='about'>
       <h5>Get To Know</h5>
       <h2>About Me</h2>
       <div className="container about__container">
@@ -35,7 +35,7 @@ FunctionUp  and  I  am currently looking  forward  to be a part  of an  organiza
 me  keeping  myself  on  top  of this  fast  changing  technological  environment.  
 
             </p>
-           <a href='#contact' className="btn btn-primary">Let's Talk</a>
+           <a href='/contact' className="btn btn-primary">Let's Talk</a>
           </div>
         </div>
     </section>
