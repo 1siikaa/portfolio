@@ -35,7 +35,7 @@ FunctionUp  and  I  am currently looking  forward  to be a part  of an  organiza
 me  keeping  myself  on  top  of this  fast  changing  technological  environment.  
 
             </p>
-           <a href='www.linkedin.com/in/vanshika-dubey-479693227'  target='_blank' rel="noreferrer"   className="btn btn-primary">Let's Talk</a>
+           <a href='www.linkedin.com/mwlite/in/vanshika-dubey-479693227'  target='_blank' rel="noreferrer"   className="btn btn-primary">Let's Talk</a>
           </div>
         </div>
     </section>
