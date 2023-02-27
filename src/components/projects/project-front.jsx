@@ -2,6 +2,7 @@ import React from 'react'
 import './projects.css'
 import IMG7 from '../../assets/project7.png'
 import IMG8 from '../../assets/project8.jpg'
+import IMG9 from '../../assets/project9.jpg'
 
 // 
 const data = [
@@ -18,6 +19,13 @@ const data = [
     title: 'Netflix-clone',
     github:'https://github.com/1siikaa/netflix-clone',
     app:'https://thunderous-paletas-82a9c3.netlify.app/'
+  },
+  {
+    id:9,
+    image: IMG9,
+    title: 'COFFEE-TALES',
+    github:'https://github.com/1siikaa/portfolio/tree/coffee-tales',
+    app:'https://luminous-marshmallow-cae4f5.netlify.app/'
   }
 ]
 

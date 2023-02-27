@@ -8,10 +8,12 @@ import Contact from './components/contact/contact'
 
 
 
+
 const App = () => {
   return (
     <>
    <Header />
+   
   
         <About/>
          

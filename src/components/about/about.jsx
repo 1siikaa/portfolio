@@ -20,19 +20,22 @@ function about() {
               <article className="about__card">
                 <FaAward className="about__icon" />
                 <h5>Experience</h5>
-                <small>5+ months working expierence</small>
+                <small>6+ months working expierence</small>
               </article>
               <article className="about__card">
                 <VscFolderLibrary className="about__icon"/>
-                <h5>Projects</h5>
+                <h5>Back-end Projects</h5>
                 <small>5+ completed</small>
+              </article>
+              <article className="about__card">
+                <VscFolderLibrary className="about__icon"/>
+                <h5>Front-end Projects</h5>
+                <small>2+ completed</small>
               </article>
             </div>
             <p>
-            I am a fresher having  month Of  backend  experience
-working and specializing in backend web technologies  at
-FunctionUp  and  I  am currently looking  forward  to be a part  of an  organization  that  would  help
-me  keeping  myself  on  top  of this  fast  changing  technological  environment.  
+            I am a fresher having months Of backend experience
+working and specializing in backend web technologies at FunctionUp and"Creative and detail-oriented web developer with a passion for building engaging and user-friendly interfaces. Armed with a solid foundation in HTML, CSS, and JavaScript, and experience in developing responsive websites, I am ready to apply my technical skills and collaborate with a team of like-minded professionals to drive innovation in the field of web development."
 
             </p>
            <a href='https://www.linkedin.com/mwlite/in/vanshika-dubey-479693227'  target='_blank' rel="noreferrer"   className="btn btn-primary">Let's Talk</a>
