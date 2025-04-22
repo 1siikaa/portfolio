@@ -2,7 +2,7 @@ import React from 'react'
 import './projects.css'
 import IMG7 from '../../assets/project7.png'
 import IMG8 from '../../assets/project8.jpg'
-import IMG9 from '../../assets/project9.jpg'
+// import IMG9 from '../../assets/project9.jpg'
 
 // 
 const data = [
