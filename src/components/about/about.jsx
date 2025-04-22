@@ -20,7 +20,7 @@ function about() {
               <article className="about__card">
                 <FaAward className="about__icon" />
                 <h5>Experience</h5>
-                <small>6+ months working expierence</small>
+                <small>2.5 + years of working experience</small>
               </article>
               <article className="about__card">
                 <VscFolderLibrary className="about__icon"/>
@@ -34,9 +34,7 @@ function about() {
               </article>
             </div>
             <p>
-            I am a fresher having months Of backend experience
-working and specializing in backend web technologies at FunctionUp and"Creative and detail-oriented web developer with a passion for building engaging and user-friendly interfaces. Armed with a solid foundation in HTML, CSS, and JavaScript, and experience in developing responsive websites, I am ready to apply my technical skills and collaborate with a team of like-minded professionals to drive innovation in the field of web development."
-
+            Dedicated and detail-oriented Backend Developer with over 2.5 years of hands-on experience in designing and implementing scalable, secure, and high-performance web applications. Proficient in building robust backend architectures using Node.js and Express, developing RESTful APIs, managing databases, and deploying services on cloud platforms like AWS."
             </p>
            <a href='https://www.linkedin.com/mwlite/in/vanshika-dubey-479693227'  target='_blank' rel="noreferrer"   className="btn btn-primary">Let's Talk</a>
           </div>
