@@ -19,12 +19,6 @@ const data = [
     title: 'Netflix-clone',
     github:'https://github.com/1siikaa/netflix-clone',
     app:'https://thunderous-paletas-82a9c3.netlify.app/'
-  },
-  {
-    id:9,
-    image: IMG9,
-    title: 'COFFEE-TALES',
-    github:'https://github.com/1siikaa/python_django'
   }
 ]
 
