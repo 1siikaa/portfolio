@@ -24,8 +24,7 @@ const data = [
     id:9,
     image: IMG9,
     title: 'COFFEE-TALES',
-    github:'https://github.com/1siikaa/portfolio/tree/coffee-tales',
-    app:'https://luminous-marshmallow-cae4f5.netlify.app/'
+    github:'https://github.com/1siikaa/python_django'
   }
 ]
 
