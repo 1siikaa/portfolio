@@ -18,7 +18,7 @@ const data = [
     image: IMG8,
     title: 'Netflix-clone',
     github:'https://github.com/1siikaa/netflix-clone',
-    app:'https://thunderous-paletas-82a9c3.netlify.app/'
+    app:'https://tiny-tulumba-c8f5cc.netlify.app'
   }
 ]
 
