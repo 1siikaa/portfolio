@@ -32,7 +32,7 @@ function projects() {
 {
   data.map(({id, image, title, github,app})=>{
     return(
-<article key={id} className='poroject__item'>
+<article key={id} className='project__item'>
 <div className='project__item-image'>
 <img src={image} alt={title} />
 </div>

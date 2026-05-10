@@ -13,58 +13,86 @@ function experience() {
         <h3>Technology Used</h3>
         <div className='experience__content'>
 <article className='experience__details'>
-<BsPatchCheckFill/>
+<BsPatchCheckFill className='experience__details-icon'/>
 <div>
 <h4>JavaScript</h4>
 <small className='text-light'>Experienced</small>
 </div>
 </article>
 <article className='experience__details'>
-<BsPatchCheckFill/>
+<BsPatchCheckFill className='experience__details-icon'/>
 <div>
 <h4>Node.js</h4>
 <small className='text-light'>Experienced</small>
 </div>
 </article>
 <article className='experience__details'>
-<BsPatchCheckFill/>
+<BsPatchCheckFill className='experience__details-icon'/>
 <div>
 <h4>Express.js</h4>
 <small className='text-light'>Experienced</small>
 </div>
 </article>
 <article className='experience__details'>
-<BsPatchCheckFill/>
+<BsPatchCheckFill className='experience__details-icon'/>
 <div>
 <h4>PostgreSQL(Advanced)</h4>
 <small className='text-light'>Experienced</small>
 </div>
 </article>
 <article className='experience__details'>
-<BsPatchCheckFill/>
+<BsPatchCheckFill className='experience__details-icon'/>
 <div>
 <h4>React(Basics)</h4>
 <small className='text-light'>Intermediate</small>
 </div>
 </article>
 <article className='experience__details'>
-<BsPatchCheckFill/>
+<BsPatchCheckFill className='experience__details-icon'/>
 <div>
 <h4>Git</h4>
 <small className='text-light'>Experienced</small>
 </div>
 </article>
 <article className='experience__details'>
-<BsPatchCheckFill/>
+<BsPatchCheckFill className='experience__details-icon'/>
 <div>
 <h4>DSA</h4>
 <small className='text-light'>Intermediate</small>
 </div>
 </article>
 <article className='experience__details'>
-<BsPatchCheckFill/>
+<BsPatchCheckFill className='experience__details-icon'/>
 <div>
 <h4>Postman</h4>
+<small className='text-light'>Experienced</small>
+</div>
+</article>
+<article className='experience__details'>
+<BsPatchCheckFill className='experience__details-icon'/>
+<div>
+<h4>AWS (EC2, S3, Lambda)</h4>
+<small className='text-light'>Experienced</small>
+</div>
+</article>
+<article className='experience__details'>
+<BsPatchCheckFill className='experience__details-icon'/>
+<div>
+<h4>MongoDB</h4>
+<small className='text-light'>Intermediate</small>
+</div>
+</article>
+<article className='experience__details'>
+<BsPatchCheckFill className='experience__details-icon'/>
+<div>
+<h4>Redis</h4>
+<small className='text-light'>Intermediate</small>
+</div>
+</article>
+<article className='experience__details'>
+<BsPatchCheckFill className='experience__details-icon'/>
+<div>
+<h4>System Design</h4>
 <small className='text-light'>Experienced</small>
 </div>
 </article>

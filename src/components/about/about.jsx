@@ -64,7 +64,7 @@ function about() {
   <strong>performance optimization</strong>, and{" "}
   <strong>production-level backend architecture</strong>.
 </p>
-           <a href='https://www.linkedin.com/mwlite/in/vanshika-dubey-479693227'  target='_blank' rel="noreferrer"   className="btn btn-primary">Let's Talk</a>
+           <a href='https://www.linkedin.com/in/vanshika-dubey-479693227'  target='_blank' rel="noreferrer"   className="btn btn-primary">Let's Talk</a>
           </div>
         </div>
     </section>
