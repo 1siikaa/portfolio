@@ -73,7 +73,7 @@ function Certificates() {
 </div>
 <h3>{title}</h3>
 <div className='project__item-cta'>
-<a href={view || image} className='btn'  target='_blank' rel="noreferrer">View</a>
+{view && <a href={view} className='btn' target='_blank' rel="noreferrer">View</a>}
 </div>
 </article>
     )
